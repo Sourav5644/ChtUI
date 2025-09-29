@@ -93,6 +93,7 @@ if user_input:
     }
 
 
+
     # first add the message to message_history
     with st.chat_message('assistant'):
 
